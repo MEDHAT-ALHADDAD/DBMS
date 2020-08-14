@@ -1,6 +1,6 @@
 created by: 
-Medhat Ashraf Alhaddad medhat.alhaddad@gmail.com
-!!!!!
+Medhat Ashraf Alhaddad 
+Eslam ElGenedy 
 
 to run : 
 1- make sure you are in same dir as DBMS.sh
